@@ -1,0 +1,12 @@
+{
+  "name": "tesla-ai-investment-funnel",
+  "version": "1.0.0",
+  "description": "Tesla AI investment affiliate funnel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
